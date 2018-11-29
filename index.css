@@ -6,7 +6,7 @@ html, body{
 	height: 100%;
 }
 body{
-	background: url(ravi.jpg) no-repeat center center;
+	background: url() no-repeat center center;
 	background-size: cover;
 	display: flex;
 	flex-direction: column;
